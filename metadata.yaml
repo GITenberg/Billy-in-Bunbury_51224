@@ -1,0 +1,29 @@
+_repo: Billy-in-Bunbury_51224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Royal Baking Powder Company
+    aliases:
+    - Company, Royal Baking Powder
+    - Royal Baking Powder Company, New York
+    - Royal Baking Powder Co.
+    gutenberg_agent_id: '46314'
+    url: http://www.gutenberg.org/2009/agents/46314
+description: Includes recipes scattered throughout the text.
+gutenberg_issued: '2016-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Advertising -- Baking powder'
+- !lcc 'PZ'
+- !lcc 'TX'
+- !lcsh 'Baking -- Juvenile literature'
+- !lcsh 'Baking powder -- Juvenile literature'
+- GITenberg
+title: Billy in Bunbury
+url: http://www.gutenberg.org/ebooks/51224
