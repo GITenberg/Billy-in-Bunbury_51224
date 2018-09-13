@@ -1,5 +1,8 @@
 _repo: Billy-in-Bunbury_51224
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51224-h/images/cover.jpg
 creator:
   author:
     agent_name: Royal Baking Powder Company
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46314'
     url: http://www.gutenberg.org/2009/agents/46314
 description: Includes recipes scattered throughout the text.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51224#Billy-in-Bunbury
 gutenberg_issued: '2016-02-15'
 gutenberg_type: Text
 identifiers:
